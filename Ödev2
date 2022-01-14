@@ -1,0 +1,67 @@
+<!--İlk başlığa isim soyisim yazılır-->
+<h1>
+    Hüseyin Uyumaz
+</h1>
+<h2><!--İkinci başlığa Hakkımda yazılır-->
+    Hakkımda 
+</h2>
+<p><!--İkinci başlığın altına paragraf yazılır-->
+    Merhabalar, ben <strong>Hüseyin Uyumaz</strong>. Bilgisayar mühendisliği 2. sınıf öğrencisiyim. <em>Film izlemeyi ve izlediğim filmleri arkadaşlarımla tartışmaya bayılırım.</em> 
+</p>
+<h3><!-- Üçüncü alt başlık oluşturulur-->
+    İlgi alanlarım
+    <ol>
+        <li>
+            Diziler
+            <ul>
+                <li>
+                    Leyla ile Mecnun
+                </li>
+                <li>
+                    Ezel
+                </li>
+                <li>
+                    Behzat Ç.
+                </li>
+            </ul>
+        </li>
+        <li>
+            Filmler
+            <ul>
+                <li>
+                    <a href="https://www.imdb.com/title/tt0038650/" target="_Blank">
+                            It's A Wonderful Life
+                    </a>
+                </li>
+                <li>
+                    <strong>La Vita A Bella</strong>
+                </li>
+                <li>
+                    Shutter Island
+                </li>
+            </ul>
+        </li>
+        <li>
+            Kitaplar
+            <ul>
+                <li>
+                    <a href="https://www.goodreads.com/book/show/13490314-eker-portakal?from_search=true&from_srp=true&qid=M8qm2L0xso&rank=1" target="_Blank"> 
+                        Şeker Portakalı
+                    </a>
+                </li>
+                <li>
+                    Uçurtma Avcısı
+                </li>
+                <li>
+                    1984
+                </li>
+            </ul>
+        </li>
+    </ol>
+</h3>
+<h3>
+    En Sevdiğim Film
+    <h4>It's a wonderful life</h4>
+    <img src="https://m.media-amazon.com/images/M/MV5BMjQxNTM4Mjg1NV5BMl5BanBnXkFtZTgwNDYyNzM4NjM@._V1_.jpg" width="30%" alt="It's a wonderful life görseli">
+    <p>Dostluğun ve yardımlaşmanın ne kadar kıymetli birer kavram olduklarını George Baily'nin başından geçen olaylarla anlatmaya çalışan içinizi ısıtacak bir aile filmi.</p>
+</h3>
